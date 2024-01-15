@@ -2,8 +2,6 @@ rm(list=ls())
 ###  Company    : Stevens 
 #  Project    : KDDM Final Project
 #  Purpose    : Pre-processing
-#  Group      : Hadia, Bhumika, Rucha, Lindsay
-#  Id			    : 10440803
 #  Date       : 11/27/2018
 #  Comments   :
 
